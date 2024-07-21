@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BossRoom
+  - OrderPuzzle
+  - PurpleKey
+  - YellowKey
+  - floor
+  - Sensor
+  - Door
+  - Chest
+  - Pushable
+  - DoorKey
+  - Heart
+  - Enemy
+  - Gem
+  - Elevator
+  - Mimic
+  - Shield
+  - Weapon
+  - DarkRoom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Boss
+  - Water
+  - UI
+  - Shot
+  - Boomerang
+  - Sword
+  - Sensor
+  - Gap
+  - Player
+  - PushableBlock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

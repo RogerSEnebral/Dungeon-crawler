@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>28ae6198b7f029d8a9d2a4abbae5176a</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2023-01-02T21:43:42.8516591+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d12fd0890bfd9f588a2123e63cd9a924</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2023-01-02T21:43:42.8516591+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>79210f5b6cf5fbefba5b6e001b444069</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2023-01-02T21:43:42.8516591+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c489553af82a017aba21c629b5de9f62</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/CollectionData.cs</fileName>
+    <timeStamp>2023-01-02T21:43:42.8516591+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0368169294d574b0089ea49f74050301</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2023-01-02T21:43:42.8516591+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7740545338ab9d401b1557aa09e95583</guid>
+    <fileName>Assets/Plugins/UnitySweeper/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2023-01-02T21:43:42.8516591+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7ba361ed49cea5345acd0e0fb2db048e</guid>
+    <fileName>Assets/Scripts/GameManager.cs</fileName>
+    <timeStamp>2023-01-02T21:44:17.6351451+01:00</timeStamp>
+    <typeFullName>
+      <string>GameManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1b0bf267ae8c58deba4dafaa5ade8150</guid>
+    <fileName>Assets/Scripts/Mover.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>Mover</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4bfa5a852cee9b7e5ac6b3eb62d42446</guid>
+    <fileName>Assets/Scripts/Brekable/BreakableController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7893525+01:00</timeStamp>
+    <typeFullName>
+      <string>BreakableController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>73d346bf9d8c07d4ba5b51e68d02f441</guid>
+    <fileName>Assets/Scripts/Camera/CameraController.cs</fileName>
+    <timeStamp>2023-01-02T20:15:41.9024726+01:00</timeStamp>
+    <typeFullName>
+      <string>CameraController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c6881f979dade074bb653e1e08cbc418</guid>
+    <fileName>Assets/Scripts/Chest/ChestController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7893525+01:00</timeStamp>
+    <typeFullName>
+      <string>ChestContent</string>
+      <string>ChestController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4eef7a3da6d0b4e47991581208283b7c</guid>
+    <fileName>Assets/Scripts/Door/DoorInfo.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7893525+01:00</timeStamp>
+    <typeFullName>
+      <string>DoorInfo</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b3302eb319e508237ac3a0daf3e44a74</guid>
+    <fileName>Assets/Scripts/Enemy/CollisionDestroyer.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>CollisionDestroyer</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b26647c62e9c03c578d2720aaca5795c</guid>
+    <fileName>Assets/Scripts/Enemy/EnemyController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>EnemyController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d693d1a051e98b0d09cdc694dbe92563</guid>
+    <fileName>Assets/Scripts/Enemy/EnemyDamageController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>EnemyDamageController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>63615ec07d3ccf69499ca2fa025efb46</guid>
+    <fileName>Assets/Scripts/Enemy/RandomDrop.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>RandomDrop</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d2c419406dbed69478b35461d7bceb56</guid>
+    <fileName>Assets/Scripts/Enemy/SpawnController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>SpawnController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>54c6ff0e661dff836abc53c33cd122e5</guid>
+    <fileName>Assets/Scripts/GameOver/GameOverController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>GameOverController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>73b84a7b527bf7249b8113c353f954f7</guid>
+    <fileName>Assets/Scripts/HUD/HUDUpdate.cs</fileName>
+    <timeStamp>2023-01-01T22:42:09.1283107+01:00</timeStamp>
+    <typeFullName>
+      <string>HUDUpdate</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f46ede6fbb4725e45af826ef530b490e</guid>
+    <fileName>Assets/Scripts/Menu/MenuController.cs</fileName>
+    <timeStamp>2023-01-02T21:43:42.859659+01:00</timeStamp>
+    <typeFullName>
+      <string>MenuController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9dc6d838239800d889db68ea7ef44666</guid>
+    <fileName>Assets/Scripts/Menu/PauseController.cs</fileName>
+    <timeStamp>2023-01-02T21:43:42.859659+01:00</timeStamp>
+    <typeFullName>
+      <string>PauseController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>48d26f78ede11294b8c4d1a0571d13f4</guid>
+    <fileName>Assets/Scripts/PickUps/PickUpController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>PickUpController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6a194d275d1c80f4c8c018268d9dcc36</guid>
+    <fileName>Assets/Scripts/Player/ChangeRoomController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>ChangeRoomController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>54415def8c8ee03d59794e69e5a0f59a</guid>
+    <fileName>Assets/Scripts/Player/PlayerActiveState.cs</fileName>
+    <timeStamp>2023-01-02T21:44:17.6351451+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerActiveState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b4f1765d4cb7b31cfa1ba9ee7fd7f9c4</guid>
+    <fileName>Assets/Scripts/Player/PlayerAttackingBoomerangState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerAttackingBoomerangState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>567b3e18161e7c1659d73f3038b13ac5</guid>
+    <fileName>Assets/Scripts/Player/PlayerAttackingState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerAttackingState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>86eafe1aac4001bbe8fce308bba69f73</guid>
+    <fileName>Assets/Scripts/Player/PlayerAttackingSwordState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerAttackingSwordState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a22e68ede95311344b0a9c405f1f524c</guid>
+    <fileName>Assets/Scripts/Player/PlayerController.cs</fileName>
+    <timeStamp>2023-01-02T21:44:17.6351451+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3f4adbc16b08512be992dacecce184e6</guid>
+    <fileName>Assets/Scripts/Player/PlayerDamageController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerDamageController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9a271ad67e37b6fc1a6e1e7023122f0e</guid>
+    <fileName>Assets/Scripts/Player/PlayerDyingState.cs</fileName>
+    <timeStamp>2023-01-02T21:44:17.6351451+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerDyingState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>12ab445ddab1516448a6e5d3bf90dd65</guid>
+    <fileName>Assets/Scripts/Player/PlayerIdleState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerIdleState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>29f27402da859aff293115d8f8f39d87</guid>
+    <fileName>Assets/Scripts/Player/PlayerOpeningState.cs</fileName>
+    <timeStamp>2023-01-02T21:44:17.6351451+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerOpeningState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3543f2ceaa25399499d5ce301efa3cc0</guid>
+    <fileName>Assets/Scripts/Player/PlayerPickUpController.cs</fileName>
+    <timeStamp>2023-01-02T21:43:42.8636589+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerPickUpController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5b1ba057677a28840972551fb6651c73</guid>
+    <fileName>Assets/Scripts/Player/PlayerPushingState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerPushingState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f02d04cda3fdb7e788d9239196bd24a1</guid>
+    <fileName>Assets/Scripts/Player/PlayerState.cs</fileName>
+    <timeStamp>2023-01-02T21:44:17.6351451+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fb330a687cc90c21090a81a1099e29b6</guid>
+    <fileName>Assets/Scripts/Player/PlayerTakingDamageState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerTakingDamageState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1670602b1953556ae92764ecd5335bf6</guid>
+    <fileName>Assets/Scripts/Player/PlayerWalkingState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>PlayerWalkingState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8037caaade5f9224ab95d35eaf60e8e1</guid>
+    <fileName>Assets/Scripts/Puzzle/ButtonController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>ButtonController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba4779a44afae8f419dc1a378d94820e</guid>
+    <fileName>Assets/Scripts/Puzzle/ColumnsPuzzle.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7973527+01:00</timeStamp>
+    <typeFullName>
+      <string>ColumnsPuzzle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dcbb6aaee55ca3e45b01c40242b7394c</guid>
+    <fileName>Assets/Scripts/Puzzle/ElevatorController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7973527+01:00</timeStamp>
+    <typeFullName>
+      <string>ElevatorController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c2647c6f21499274a831d3b91a57b898</guid>
+    <fileName>Assets/Scripts/Puzzle/OrderPuzzle.cs</fileName>
+    <timeStamp>2023-01-02T21:44:17.6351451+01:00</timeStamp>
+    <typeFullName>
+      <string>OrderPuzzle</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ef0d4d0dbb7b41747b33be9c37852c80</guid>
+    <fileName>Assets/Scripts/Puzzle/PushableObject.cs</fileName>
+    <timeStamp>2023-01-02T20:15:41.9024726+01:00</timeStamp>
+    <typeFullName>
+      <string>PushableObject</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>27b2d21233f15e54bb14052c1ad26f21</guid>
+    <fileName>Assets/Scripts/Puzzle/SensorColumnController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7973527+01:00</timeStamp>
+    <typeFullName>
+      <string>SensorColumnController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>346ccb9766d427a028a1068af3d98067</guid>
+    <fileName>Assets/Scripts/Weapon/BoomerangBackState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7973527+01:00</timeStamp>
+    <typeFullName>
+      <string>BoomerangBackState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>363c919eb5ab89170a80689dac7955be</guid>
+    <fileName>Assets/Scripts/Weapon/BoomerangController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7973527+01:00</timeStamp>
+    <typeFullName>
+      <string>BoomerangController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>813507ccfa26e887696a4a19f289806d</guid>
+    <fileName>Assets/Scripts/Weapon/BoomerangState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7973527+01:00</timeStamp>
+    <typeFullName>
+      <string>BoomerangState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>569fea895cb6e3392abfe172e86d545b</guid>
+    <fileName>Assets/Scripts/Weapon/BoomerangStoredState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7973527+01:00</timeStamp>
+    <typeFullName>
+      <string>BoomerangStoredState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2947fca5d4c5fca3d937cdaee2936b17</guid>
+    <fileName>Assets/Scripts/Weapon/BoomerangThrowingState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7973527+01:00</timeStamp>
+    <typeFullName>
+      <string>BoomerangThrowingState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e68bcf0580ba1901c947ed910814169d</guid>
+    <fileName>Assets/Scripts/Weapon/WeaponProperties.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7973527+01:00</timeStamp>
+    <typeFullName>
+      <string>WeaponProperties</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aca2ef283185b72c2ab768e55aaa2169</guid>
+    <fileName>Assets/Scripts/Enemy/Beholder/BeholderActiveState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7893525+01:00</timeStamp>
+    <typeFullName>
+      <string>BeholderActiveState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>464dac450bfff424da041faf0daa628a</guid>
+    <fileName>Assets/Scripts/Enemy/Beholder/BeholderController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7893525+01:00</timeStamp>
+    <typeFullName>
+      <string>BeholderController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0ee01a445ee054b47aa136dcebe2c442</guid>
+    <fileName>Assets/Scripts/Enemy/Beholder/BeholderDyingState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7893525+01:00</timeStamp>
+    <typeFullName>
+      <string>BeholderDyingState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7da69c5edbd0a6df9902e5095b7fa139</guid>
+    <fileName>Assets/Scripts/Enemy/Beholder/BeholderState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7893525+01:00</timeStamp>
+    <typeFullName>
+      <string>BeholderState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4a3f8ca244ae19a2d8c0eb0ba0e2950f</guid>
+    <fileName>Assets/Scripts/Enemy/Beholder/BeholderTakingDamageState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7893525+01:00</timeStamp>
+    <typeFullName>
+      <string>BeholderTakingDamageState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f5b6770689008de47b04c23201e1ddb0</guid>
+    <fileName>Assets/Scripts/Enemy/DogKnight/DogKnightActiveState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>DogKnightActiveState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>93e69b5cb81c61041bbafc73bc9f2eec</guid>
+    <fileName>Assets/Scripts/Enemy/DogKnight/DogKnightController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>DogKnightController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e8d5d7a808f00a84ea105d4be077f19c</guid>
+    <fileName>Assets/Scripts/Enemy/DogKnight/DogKnightDefendState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>DogKnightDefendState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2d320745fccbf914fa5a908827293498</guid>
+    <fileName>Assets/Scripts/Enemy/DogKnight/DogKnightDyingState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>DogKnightDyingState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e8dbb0f751bfc5e4ba0e03f1e17a60a0</guid>
+    <fileName>Assets/Scripts/Enemy/DogKnight/DogKnightState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>DogKnightState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>105be324c65665b43b315d0da8f33dbf</guid>
+    <fileName>Assets/Scripts/Enemy/DogKnight/DogKnightTakingDamageState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>DogKnightTakingDamageState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4932df873a58066439d5979d0f8cde51</guid>
+    <fileName>Assets/Scripts/Enemy/Mimic/MimicActiveState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>MimicActiveState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>27f783aae734d334e9ab3d1221dc8b6a</guid>
+    <fileName>Assets/Scripts/Enemy/Mimic/MimicChestState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>MimicChestState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ca5b6c614ea5cd44ab7545a7e41a3322</guid>
+    <fileName>Assets/Scripts/Enemy/Mimic/MimicController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>MimicController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9309d367e56afe74abff19a3fda58a59</guid>
+    <fileName>Assets/Scripts/Enemy/Mimic/MimicDyingState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>MimicDyingState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9785fbf74199c684a9efb85be3ff6ce0</guid>
+    <fileName>Assets/Scripts/Enemy/Mimic/MimicHeadbuttState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>MimicHeadbuttState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ee1da09ffc90caf489510572ed44c6c3</guid>
+    <fileName>Assets/Scripts/Enemy/Mimic/MimicLaughState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>MimicLaughState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>34d5845d2a615594293c14ffc9fa2405</guid>
+    <fileName>Assets/Scripts/Enemy/Mimic/MimicState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>MimicState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fbb4147b0d4dc3542a30820bb686bc26</guid>
+    <fileName>Assets/Scripts/Enemy/Mimic/MimicTakingDamageState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>MimicTakingDamageState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>efbeaa2903a2db48f95bdc4d901ed57a</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterController.cs</fileName>
+    <timeStamp>2023-01-02T23:58:31.9028162+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f5e7f8e40c14d7aad853ac29d865c298</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterDirectionManager.cs</fileName>
+    <timeStamp>2023-01-02T21:43:42.859659+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterDirectionManager</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2907d466e7de656588d83147efb16c9f</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterPhase1DefendingState.cs</fileName>
+    <timeStamp>2023-01-01T20:32:29.6462869+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterPhase1DefendingState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d21cd79000049d044995ef96b8b96f0c</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterPhase1IdleState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterPhase1IdleState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a150355809ffed3799d1c7427db406ca</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterPhase1RunningState.cs</fileName>
+    <timeStamp>2023-01-02T21:44:17.6351451+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterPhase1RunningState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>edac28f9d495a0c04bc05da2559c69fd</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterPhase1ScreamingState.cs</fileName>
+    <timeStamp>2023-01-02T22:16:08.4732063+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterPhase1ScreamingState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>67c4d5291217dc74d807a5316825db60</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterPhase1ShootingState.cs</fileName>
+    <timeStamp>2023-01-02T23:56:19.3932064+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterPhase1ShootingState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ef440fd87a88591dea5b7c0789d8ae71</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterPhase1TakingDamageState.cs</fileName>
+    <timeStamp>2023-01-02T22:23:35.7879233+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterPhase1TakingDamageState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9ede30b55b5361ef98b464852fe8ef77</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterState.cs</fileName>
+    <timeStamp>2023-01-02T22:22:46.7702128+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4898e7d6dc9023a41ac1d929bc1f87df</guid>
+    <fileName>Assets/Scripts/Enemy/SpikeBall/SpikeBallActiveState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>SpikeBallActiveState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c0a8fc1d9824cc143939c51d1f6062d7</guid>
+    <fileName>Assets/Scripts/Enemy/SpikeBall/SpikeBallController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>SpikeBallController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a4e602fdce922414abcbbd2abd3ade85</guid>
+    <fileName>Assets/Scripts/Enemy/SpikeBall/SpikeBallDyingState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>SpikeBallDyingState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>38de84d5b9884a54b8002c9b67cba697</guid>
+    <fileName>Assets/Scripts/Enemy/SpikeBall/SpikeBallState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>SpikeBallState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4a0959aa24acccb48abdfcdf81d8cfed</guid>
+    <fileName>Assets/Scripts/Enemy/SpikeBall/SpikeBallTakingDamageState.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>SpikeBallTakingDamageState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b97b5e8f103d25d8bbc755f7abca7a6e</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/Shots/FollowingShotController.cs</fileName>
+    <timeStamp>2023-01-01T20:31:59.7933526+01:00</timeStamp>
+    <typeFullName>
+      <string>FollowingShotController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3b52df86f392772b3a72b3078eee5587</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/Shots/SpreadShotController.cs</fileName>
+    <timeStamp>2023-01-02T23:57:35.622755+01:00</timeStamp>
+    <typeFullName>
+      <string>SpreadShotController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>07d17444e6322864c8e4872ad4d0e886</guid>
+    <fileName>Assets/Scripts/VictoryScreen/VictoryScreenAudioController.cs</fileName>
+    <timeStamp>2023-01-02T21:44:17.6351451+01:00</timeStamp>
+    <typeFullName>
+      <string>VictoryScreenAudioController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0a5621f0854d44244ab63e5bb2d72b34</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterBasicAttack.cs</fileName>
+    <timeStamp>2023-01-02T21:44:17.6351451+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterBasicAttack</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>22692aef954538d4badff9699846ed4c</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterCharge.cs</fileName>
+    <timeStamp>2023-01-02T21:44:17.6351451+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterCharge</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f439d775bc2779b49bde829d8f3ba4f2</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterDeath.cs</fileName>
+    <timeStamp>2023-01-02T21:44:17.6351451+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterDeath</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>49fb48bbedd802f42a414c72e8313473</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterGoLandingPosition.cs</fileName>
+    <timeStamp>2023-01-02T21:44:17.6351451+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterGoLandingPosition</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>20a57e51ddd559c43acfba3eb37a799e</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterHovering.cs</fileName>
+    <timeStamp>2023-01-02T23:59:42.1916389+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterHovering</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7510437d0cb08aa42944f3b89db78fed</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterPhase1DefendingState.cs</fileName>
+    <timeStamp>2023-01-02T21:41:35.6615076+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterPhase1DefendingState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>22ce29a8a2b88cb45aa312c71ff399b7</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterPhase1IdleState.cs</fileName>
+    <timeStamp>2023-01-02T21:44:17.6351451+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterPhase1IdleState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>db33977bbede2d2489ab8bbc53e1d637</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterPhase2RunningState.cs</fileName>
+    <timeStamp>2023-01-02T21:44:17.6351451+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterPhase2RunningState</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>26776d477a211954294a4bc66bc64163</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/SoulEaterTailAttack.cs</fileName>
+    <timeStamp>2023-01-02T22:58:16.3391474+01:00</timeStamp>
+    <typeFullName>
+      <string>SoulEaterTailAttack</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c14a63f55babae84e84dbca50541a1cc</guid>
+    <fileName>Assets/Scripts/Enemy/SoulEater/Shots/FollowingShotController.cs</fileName>
+    <timeStamp>2023-01-02T21:43:42.859659+01:00</timeStamp>
+    <typeFullName>
+      <string>FollowingShotController</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>
